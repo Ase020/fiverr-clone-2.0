@@ -5,8 +5,9 @@ import { default as TrustedBy } from "./trustedBy/TrustedBy";
 import { default as CategoryCard } from "./categoryCard/CategoryCard";
 import { default as Slide } from "./slide/Slide";
 import { default as Features } from "./features/Features";
-import { default as Explore } from "./explore/Explore";
 import { default as ProjectCard } from "./projectCard/ProjectCard";
+import { default as GigCard } from "./gigCard/GigCard";
+import { default as Explore } from "./explore/Explore";
 
 export {
   Navbar,
@@ -17,5 +18,6 @@ export {
   Slide,
   Features,
   ProjectCard,
+  GigCard,
   Explore,
 };
