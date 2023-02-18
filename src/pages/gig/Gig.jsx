@@ -309,17 +309,14 @@ const Gig = () => {
               <img src="/img/greencheck.png" alt="" />
               <span>Prompt writing</span>
             </div>
-
             <div className="item">
               <img src="/img/greencheck.png" alt="" />
               <span>Artwork delivery</span>
             </div>
-
             <div className="item">
               <img src="/img/greencheck.png" alt="" />
               <span>Image upscaling</span>
             </div>
-
             <div className="item">
               <img src="/img/greencheck.png" alt="" />
               <span>additional design</span>
